@@ -1,0 +1,211 @@
+[
+  {
+		"family": "Times",
+		"size": 20,
+		"style": "B"
+	},
+	{
+		"w": 250,
+		"h": 80,
+		"txt": "user_input",
+		"align": "L"
+	},
+    {
+		"family": "Courier",
+		"size": 25,
+		"style": "B"
+	},
+  	{
+		"w": 0,
+		"h": 50,
+		"txt": "INVOICE",
+		"align": "R",
+		"ln": 1
+	},
+  	{
+		"family": "Times",
+		"size": 10,
+		"style": "B"
+	},
+    {
+	    "w": 250,
+		"h": 15,
+		"txt": "",
+		"align": "L",
+		"ln": 1
+	},
+	{
+		"w": 250,
+		"h": 15,
+		"txt": "user_input",
+		"align": "L",
+		"ln": 1
+	},
+	{
+		"w": 250,
+		"h": 15,
+		"txt": "user_input",
+		"align": "L"
+	},
+	{
+		"w": 250,
+		"h": 15,
+		"txt": "Invoice #:",
+		"align": "R"
+	},
+	{
+		"w": 250,
+		"h": 15,
+		"txt": "insert_random_number",
+		"align": "L",
+		"ln": 1
+	},
+	{
+		"w": 250,
+		"h": 15,
+		"txt": "user_input",
+		"align": "L"
+	},
+	{
+		"w": 250,
+		"h": 15,
+		"txt": "Date:",
+		"align": "R"
+	},
+	{
+		"w": 50,
+		"h": 15,
+		"txt": "insert_date",
+		"align": "L",
+		"ln": 1
+	},
+	{
+		"w": 250,
+		"h": 15,
+		"txt": "",
+		"align": "L",
+		"ln": 1
+	},
+	{
+		"w": 150,
+		"h": 15,
+		"txt": "Bill To",
+		"align": "L",
+		"ln": 1,
+		"border": 1,
+		"fill": true
+	},
+	{
+		"family": "Times",
+		"size": 10
+	},
+	{
+		"w": 150,
+		"h": 15,
+		"txt": "user_input",
+		"align": "L",
+		"ln": 1
+	},
+	{
+		"w": 150,
+		"h": 15,
+		"txt": "user_input",
+		"align": "L",
+		"ln": 1
+	},
+	{
+		"w": 150,
+		"h": 15,
+		"txt": "user_input",
+		"align": "L",
+		"ln": 1
+	},
+	{
+		"w": 150,
+		"h": 15,
+		"txt": "user_input",
+		"align": "L",
+		"ln": 1
+	},
+	{
+		"w": 150,
+		"h": 15,
+		"txt": "user_input",
+		"align": "L",
+		"ln": 1
+	},
+	{
+		"w": 250,
+		"h": 15,
+		"txt": "",
+		"align": "L",
+		"ln": 1
+	},
+	{
+		"family": "Times",
+		"size": 10,
+		"style": "B"
+	},
+	{
+		"w": 450,
+		"h": 20,
+		"txt": "Description",
+		"align": "C",
+		"border": 1,
+		"fill": true
+	},
+	{
+		"w": 0,
+		"h": 20,
+		"txt": "Amount",
+		"align": "C",
+		"border": 1,
+		"fill": true,
+		"ln": 1
+	},
+	{
+		"family": "Times",
+		"size": 10
+	},
+	{
+		"txt": "input_description_and_amount"
+	},
+	{
+		"family": "Times",
+		"size": 10,
+		"style": "B"
+	},
+	{
+		"w": 450,
+		"h": 30,
+		"txt": "Thank you for your purchase!",
+		"align": "C",
+		"border": 1
+	},
+	{
+		"w": 30,
+		"h": 30,
+		"txt": "Total:",
+		"align": "C",
+		"border": 1
+	},
+	{
+		"w": 0,
+		"h": 30,
+		"txt": "insert_total",
+		"align": "C",
+		"border": 1,
+		"ln": 1
+	},
+	{
+		"family": "Times",
+		"size": 10,
+		"style": "I"
+	},
+	{
+		"w": 0,
+		"h": 30,
+		"txt": "For any queries regarding this invoice, please contact sales@email.com",
+		"align": "C"
+	}
+]
